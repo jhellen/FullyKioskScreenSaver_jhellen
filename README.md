@@ -1,4 +1,4 @@
-# Simple Clock with Date and Time
+# Simple Clock with Date and Time (Fork)
 
 ![example image](https://github.com/mariosemes/SimpleClockWithDateForScreenSaver/blob/main/example.jpg?raw=true)
 
